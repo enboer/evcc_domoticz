@@ -9,7 +9,7 @@ A switch is created to change the charging mode:
 In the utility there are multiple devices for the ChargePower and values from the charging session. The ODO meter shows the cars mileage value. And there are a few others, see this screenshot:<br><br>
 <img width="1207" height="728" alt="EVCC_Utility" src="https://github.com/user-attachments/assets/44afcb18-d15f-48a5-b34e-5c1463835408" />
 <h2>Installation</h2>
-Create a EVCC directory in the domoticz/plugins directory. Download the plugin.py file and save this in the EVCC directory. Restart Domoticz and add this plugin as new hardware. Fill in the MQTT serverdetails. the Vehicle ODO value can be filled in as initial value for the ODO device. Make sure you have Domoticz enabled to add new devices.<br><br>
+Create a EVCC directory in the domoticz/plugins directory. Download the plugin.py and mqtt.py files and save these in the EVCC directory. Restart Domoticz and add this plugin as new hardware. Fill in the MQTT serverdetails. the Vehicle ODO value can be filled in as initial value for the ODO device. Make sure you have Domoticz enabled to add new devices.<br><br>
 
 <img width="1140" height="577" alt="EVCC_Hardware" src="https://github.com/user-attachments/assets/f8781bd7-be60-4e83-b300-ba7caf6d2d2b" />
 
